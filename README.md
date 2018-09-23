@@ -8,3 +8,10 @@ R package containing datasets for [P8105](http://p8105.com).
 # install.packages("devtools")
 devtools::install_github("p8105/p8105.datasets")
 ```
+
+### Examples
+
+``` r
+data(nyc_airbnb)
+data(rest_inspec)
+```
