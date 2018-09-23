@@ -3,7 +3,7 @@ Type: Package
 Title: P8105 Datasets
 Version: 0.0.1
 Date: 2018-09-23
-Authors@R: person("Jeff", "Goldsmith", role = c("aut", "cre"))
+Authors@R: person("Jeff", "Goldsmith", role = c("aut", "cre"), email = "ajg2202@cumc.columbia.edu")
 Description: R package containing datasets for P8105
 License: GPL-3
 LazyData: true
