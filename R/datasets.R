@@ -1,4 +1,4 @@
-# Documentation for tidyfun datasets
+# Documentation for datasets
 
 #' @name blank
 #' @docType data
