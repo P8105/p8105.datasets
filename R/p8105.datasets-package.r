@@ -5,10 +5,13 @@
 #' The package includes
 #'
 #'   - AirBnB data
+#'   - BRFSS data
 #'   - Instacart data
 #'   - NOAA data
 #'   - NYC Restaurant Inspection data
+#'   
+#' Details for each of these is available on the course website.
 #'
-#' @name tidyfun
+#' @name p8105.datasets
 #' @docType package
 NULL
