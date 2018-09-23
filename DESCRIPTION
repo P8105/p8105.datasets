@@ -1,0 +1,10 @@
+Package: p8105.datasets
+Type: Package
+Title: P8105 Datasets
+Version: 0.0.1
+Date: 2018-09-23
+Authors@R: person("Jeff", "Goldsmith", role = c("aut", "cre"))
+Description: R package containing datasets for P8105
+License: GPL-3
+LazyData: true
+RoxygenNote: 6.1.0
