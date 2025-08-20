@@ -7,4 +7,6 @@ Authors@R: person("Jeff", "Goldsmith", role = c("aut", "cre"), email = "ajg2202@
 Description: R package containing datasets for P8105
 License: GPL-3
 LazyData: true
-RoxygenNote: 6.1.0
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)

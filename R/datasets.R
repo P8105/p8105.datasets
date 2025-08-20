@@ -9,6 +9,19 @@
 NULL
 
 
+#' @name lidar
+#' @docType data
+#' @title LIDAR data
+#' @description 
+#' The lidar data frame has 221 observations from a light detection and ranging (LIDAR) experiment.
+#' 
+#' This data set was part of the package SemiPar, which is no longer available at CRAN in compiled form. 
+#' @param range distance travelled before the light is reflected back to its source.
+#' @param logratio logarithm of the ratio of received light from two laser sources.
+#' @keywords data
+NULL
+
+
 #' @name ny_noaa
 #' @docType data
 #' @title NY State NOAA

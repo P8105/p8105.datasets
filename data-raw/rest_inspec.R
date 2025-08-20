@@ -1,11 +1,11 @@
 ###########################################################
-# File imports and organizes rest_inspec data
+# File imports and organizes lidar data
 ###########################################################
 
 library(readr)
 
-rest_inspec <- read_csv(here::here("data-raw", "DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz"),
-                       col_types = cols(building = col_character()),
-                       na = c("NA", "N/A"))
+lidar <- 
+  read_csv(
+    here::here("data-raw", "lidar.csv.zip"))
 
-devtools::use_data(rest_inspec, overwrite = TRUE)
+usethis::use_data(lidar, overwrite = TRUE)
