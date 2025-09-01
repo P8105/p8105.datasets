@@ -8,6 +8,22 @@
 #' @keywords data
 NULL
 
+#' @name weather_df
+#' @docType data
+#' @title Weather
+#' @description 
+#' The lidar data frame has 2,190 total observations, coming from two years of monitoring at three US weather stations.
+#' 
+#' These data were originally accessed using the `rnoaa` package, which accessed NOAA data using an API. That package has been discontinued. 
+#' @param name name of the weather station
+#' @param id weather station ID number
+#' @param date date of observation
+#' @param prcp total daily precipitation
+#' @param tmax maximum daily temperature
+#' @param tmin minimum daily temperature
+#' @keywords data
+NULL
+
 
 #' @name lidar
 #' @docType data
